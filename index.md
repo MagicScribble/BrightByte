@@ -43,6 +43,17 @@
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
+<a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
+  <img width="160" height="160" alt="image" 
+    src="https://github.com/user-attachments/assets/971dd218-c0ce-4c0f-afb3-c5c01c7711be"
+    style="
+         border-radius: 20px;
+         border: 2px solid #11bbd1;
+         transition: box-shadow 0.3s ease;
+       "
+       onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
+       onmouseout="this.style.boxShadow='none'" />
+</a>
 
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="160" height="160" alt="image" 
