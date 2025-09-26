@@ -44,6 +44,18 @@
 </a>
 
 
+<a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
+  <img width="160" height="160" alt="image" 
+    src="https://github.com/user-attachments/assets/8ab82603-b60b-4dea-b4dd-13d40f957f2b"
+    style="
+         border-radius: 20px;
+         border: 2px solid #11bbd1;
+         transition: box-shadow 0.3s ease;
+       "
+       onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
+       onmouseout="this.style.boxShadow='none'" />
+</a>
+
 
 ---
 
