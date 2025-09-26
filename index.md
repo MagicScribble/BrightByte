@@ -19,7 +19,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <!-- App Image -->
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
-  <img width="150" height="150" alt="game image" 
+  <img width="120" height="120" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
     style="
          border-radius: 20px;
@@ -39,7 +39,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <!-- App Image -->
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
-  <img width="150" height="150" alt="image" 
+  <img width="120" height="120" alt="image" 
     src="https://github.com/user-attachments/assets/a57b7b18-476e-4fea-895c-970e1967c5ad"
     style="
          border-radius: 20px;
@@ -59,7 +59,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <!-- App Image -->
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
-  <img width="150" height="150" alt="image" 
+  <img width="120" height="120" alt="image" 
     src="https://github.com/user-attachments/assets/971dd218-c0ce-4c0f-afb3-c5c01c7711be"
     style="
          border-radius: 20px;
