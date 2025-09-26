@@ -10,10 +10,10 @@
   font-weight: bold;
   margin-bottom: 20px;
 ">
-  Bubuloo Kids Learning Games
+  BrightByte Apps
 </h1>
 
-Hi! My name is Olena. I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
+Hi! My name is Olena. I’m an indie developer and illustrator passionate about building digital spaces for kids and parents.
 
 Bubuloo is my ongoing collection of handcrafted educational apps for toddlers and preschoolers — designed to turn screen time into something gentle, playful, and meaningful.
 
@@ -89,7 +89,7 @@ If you love the app and want to support development:
 
 ## Privacy
 
-No ads. No tracking. No data collection.  
+No tracking. No data collection.  
 [Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
 
 ---
