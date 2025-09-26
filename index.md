@@ -76,7 +76,7 @@ please contact us!
 ## Privacy
 
 No tracking. No data collection.  
-[Read the Privacy Policy](https://github.com/MagicScribble/BrightByte/blob/main/pp/index.html)]
+[Read the Privacy Policy] (https://github.com/MagicScribble/BrightByte/blob/main/pp/index.html)
 
 ---
 ## Music
