@@ -1,0 +1,73 @@
+body {
+  background-image: url("../img/background.png"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #c9e4ff;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  color: #222;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 720px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
+  background: linear-gradient(
+    to bottom right,
+    rgba(240, 247, 255, 0.6), 
+    rgba(245, 250, 255, 0.7)
+  );
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+h1, h2, h3 {
+  color: #0e99ac;
+}
+
+a {
+  color: #e67e22;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d35400;
+  text-shadow: 0 0 6px rgba(255, 165, 0, 0.5);
+}
+
+code {
+  background: #eef;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* Matte glass textarea style */
+textarea {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid #c9e2ff;
+  border-radius: 12px;
+  padding: 1rem;
+  color: #333;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 1rem;
+  resize: vertical;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  outline: none;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+textarea:focus {
+  background: rgba(255, 255, 255, 0.4);
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0 10px rgba(0, 153, 204, 0.5);
+}
