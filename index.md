@@ -13,22 +13,13 @@
   BrightByte Apps
 </h1>
 
----
-
-## 💚 Thanks for Supporting Indie Development 💚
-
-Every download, share, and kind word helps me build better experiences for families everywhere.
-
-<a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="Start screen: Dino illustration" width="100" height="100" />
-</a>
 
 ---
 
 ## Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
-  <img width="95" height="95" alt="game image" 
+  <img width="150" height="150" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
     style="
          border-radius: 20px;
