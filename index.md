@@ -87,7 +87,7 @@ No tracking. No data collection.
 ---
 ## Music
 
-🎵 The amazing music in Bubuloo was created by a wonderful composer AudioCoffee.
+🎵 The amazing music in Bubuloo games was created by a wonderful composer AudioCoffee.
 If you love the sound, you can find more at [audiocoffee.net](https://www.audiocoffee.net/)
 
 
