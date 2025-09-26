@@ -19,7 +19,7 @@
 ## Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
-  <img width="200" height="200" alt="game image" 
+  <img width="95" height="95" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
     style="
          border-radius: 20px;
@@ -30,9 +30,14 @@
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
+🦕
+<a href="https://apps.apple.com/app/id6747248309" target="_blank" aria-label="Download Bubuloo app on the App Store">
+  Fun Toddler Games for Kids 2-4
+</a>
+🦕
 
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
-  <img width="200" height="200" alt="image" 
+  <img width="95" height="95" alt="image" 
     src="https://github.com/user-attachments/assets/a57b7b18-476e-4fea-895c-970e1967c5ad"
     style="
          border-radius: 20px;
@@ -42,6 +47,13 @@
        onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
+
+🦕
+<a href="https://apps.apple.com/app/id6748695587" target="_blank" aria-label="Download Bubuloo app on the App Store">
+  Kids Learning Preschool Games
+</a>
+🦕
+
 
 ---
 
