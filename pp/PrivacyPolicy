@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>BrightByte Privacy Policy</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;margin:0;background:#f7f7fb;color:#111}
+    .container{max-width:780px;margin:40px auto;padding:28px;background:#fff;border-radius:12px;box-shadow:0 6px 30px rgba(20,20,40,0.06)}
+    h1{font-size:26px;margin-top:0}
+    p{line-height:1.55}
+    a{color:#0066cc}
+    h2{margin-top:22px}
+    .meta{font-size:13px;color:#666;margin-bottom:18px}
+    footer{font-size:13px;color:#666;margin-top:28px;border-top:1px solid #efefef;padding-top:16px}
+    .note{background:#f1f7ff;padding:12px;border-radius:8px;margin:12px 0;color:#034f84}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Privacy Policy</h1>
+    <div class="meta">Effective date: September 26, 2025<br>App: Mosaic Pixel Art — Avatar Maker<br>Developer: Mosaic Pixel Art</div>
+
+    <p>Mosaic Pixel Art (the "App") is developed and published by Mosaic Pixel Art ("we", "us", or "our"). We respect your privacy and are committed to protecting it. This Privacy Policy explains how the App handles information and what choices you have.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>The App does <strong>not</strong> collect, store, or transmit any personal information from users. We do not require an account to use the App, and we do not collect identifiers, contact information, or location data.</p>
+
+    <h2>2. Advertising and Third‑Party Services</h2>
+    <p>The App includes banner advertisements served by <strong>Google AdMob</strong>. These third‑party advertising networks may collect certain data for the purpose of serving ads, measuring ad performance, and providing personalized advertising. The types of information Google may collect include device identifiers, advertising identifiers, IP address, and usage data.</p>
+
+    <div class="note">
+      <strong>Important:</strong> We do not control the data collection practices of third parties. Please review Google’s privacy documentation for details about how Google collects and uses data for ads.
+    </div>
+
+    <h2>3. Personalized Ads & Opt‑Out</h2>
+    <p>Ads displayed in the App may be personalized. To manage or opt out of personalized advertising from Google, please visit the Google Ads Settings page:</p>
+    <p><a href="https://www.google.com/settings/ads" target="_blank" rel="noopener">https://www.google.com/settings/ads</a></p>
+    <p>In addition, you can limit ad tracking on your iOS device by adjusting the <em>Limit Ad Tracking / Personalized Ads</em> settings in the device Settings app.</p>
+
+    <h2>4. Children</h2>
+    <p>The App is not intended for children under the age of 13. We do not knowingly collect information from children under 13. If you are a parent or guardian and believe your child provided personal information in the App, please contact us (see Contact section) and we will take steps to remove that information.</p>
+
+    <h2>5. Legal Bases & Data Retention</h2>
+    <p>Because the App does not collect personal data, there is no personal data retention to report. For any data collected by third parties (for advertising), retention policies are controlled by those third parties; please refer to their privacy policies for details.</p>
+
+    <h2>6. International Users</h2>
+    <p>If you are located outside the United States, please note that advertising providers may transfer data to other countries as necessary to provide services. If you are in the EU or the UK and have privacy rights under GDPR/UK law, those rights are exercised with respect to data controllers/processors that collect your data (such as Google). This App itself does not process personal data.</p>
+
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. When we do, we will revise the Effective Date at the top of this page. Continued use of the App after changes are posted constitutes acceptance of the updated policy.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have questions, concerns, or requests regarding this Privacy Policy, please contact us at <a href="mailto:support@mosaic-pixel-art.com">support@mosaic-pixel-art.com</a>. We will respond to reasonable requests within a timely manner.</p>
+
+    <footer>
+      <p>Third‑party resources referenced in this policy:</p>
+      <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></li>
+        <li><a href="https://support.google.com/ads/answer/2662922" target="_blank" rel="noopener">About Ads Settings</a></li>
+      </ul>
+    </footer>
+  </main>
+</body>
+</html>
