@@ -30,6 +30,7 @@
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
+
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="150" height="150" alt="image" 
     src="https://github.com/user-attachments/assets/a57b7b18-476e-4fea-895c-970e1967c5ad"
@@ -41,13 +42,6 @@
        onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
-
-🦕
-<a href="https://apps.apple.com/app/id6748695587" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Kids Learning Preschool Games
-</a>
-🦕
-
 
 ---
 
