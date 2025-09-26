@@ -67,6 +67,8 @@ If you love the app and want to support development:
 
 ## 📬 Contact
 
+We’re open to collaboration, promotion, and partnership proposals.
+If you’d like to work with us, please reach out:
 [hello@brightbyte.app](mailto:dentin-97.aniline@icloud.com)
 
 ---
