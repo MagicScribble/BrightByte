@@ -16,6 +16,8 @@
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <!-- App Image -->
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
   <img width="253" height="253" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
@@ -27,7 +29,13 @@
        onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
-
+  <!-- App Description -->
+  <div style="max-width: 400px;">
+    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Adventure</h3>
+    <p>Explore colorful worlds and solve puzzles in this relaxing mosaic adventure. Perfect for creative minds of all ages!</p>
+    <p><strong>Features:</strong> Pixel art, DIY mosaics, offline play, stress-relief fun.</p>
+  </div>
+</div>
 
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="253" height="253" alt="image" 
