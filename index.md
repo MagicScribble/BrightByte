@@ -16,8 +16,6 @@
 
 ---
 
-## Get the App
-
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
   <img width="253" height="253" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
