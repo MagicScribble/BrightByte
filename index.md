@@ -75,6 +75,7 @@ If you love the app and want to support development:
 
 If there’re some problems or suggestions
 please contact us!
+
 [Go to App Support Page](https://magicscribble.github.io/BrightByte/support.html)
 
 ---
