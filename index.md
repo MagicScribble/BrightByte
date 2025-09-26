@@ -31,9 +31,8 @@
 </a>
   <!-- App Description -->
   <div style="max-width: 400px;">
-    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Adventure</h3>
-    <p>Explore colorful worlds and solve puzzles in this relaxing mosaic adventure. Perfect for creative minds of all ages!</p>
-    <p><strong>Features:</strong> Pixel art, DIY mosaics, offline play, stress-relief fun.</p>
+    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Fun Toddler Games for Kids 2-4</h3>
+    <p>Support fine motor skills and early thinking with puzzles, coloring, and scratch art — designed for ages 2–5 with no ads or distractions. Explore, learn, and play!</p>
   </div>
 </div>
 
