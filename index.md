@@ -82,7 +82,7 @@ please contact us!
 ## Privacy
 
 For Bubuloo games: 
-[Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
+[Read the Privacy Policy](https://magicscribble.github.io/privacy-policy/)
 
 For Mosaic Pixel Art: Avatar Maker:
 [Read the Privacy Policy](https://magicscribble.github.io/BrightByte/privacy.html)
