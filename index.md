@@ -31,7 +31,7 @@
 </a>
   <!-- App Description -->
   <div style="max-width: 400px;">
-    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Fun Toddler Games for Kids 2-4</h3>
+    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Fun Toddler Games for Kids</h3>
     <p>Support fine motor skills and early thinking with puzzles, coloring, and scratch art — designed for ages 2–5 with no ads or distractions. Explore, learn, and play!</p>
   </div>
 </div>
