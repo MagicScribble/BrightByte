@@ -30,11 +30,6 @@
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
-🦕
-<a href="https://apps.apple.com/app/id6747248309" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Fun Toddler Games for Kids 2-4
-</a>
-🦕
 
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="95" height="95" alt="image" 
@@ -48,11 +43,6 @@
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
-🦕
-<a href="https://apps.apple.com/app/id6748695587" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Kids Learning Preschool Games
-</a>
-🦕
 
 
 ---
