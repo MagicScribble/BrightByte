@@ -36,6 +36,8 @@
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <!-- App Image -->
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="253" height="253" alt="image" 
     src="https://github.com/user-attachments/assets/a57b7b18-476e-4fea-895c-970e1967c5ad"
@@ -47,7 +49,15 @@
        onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
+  <!-- App Description -->
+  <div style="max-width: 400px;">
+    <h3 style="margin-top:0; color:#11bbd1;">Bubuloo Kids Learning Preschool Games</h3>
+    <p>Safe, ad-free learning made fun! Bubuloo offers 400+ toddler games, STEM activities, and parental controls for screen time you can trust.</p>
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <!-- App Image -->
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="253" height="253" alt="image" 
     src="https://github.com/user-attachments/assets/971dd218-c0ce-4c0f-afb3-c5c01c7711be"
@@ -59,6 +69,12 @@
        onmouseover="this.style.boxShadow='0 0 12px #fc21f9'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
+  <!-- App Description -->
+  <div style="max-width: 400px;">
+    <h3 style="margin-top:0; color:#11bbd1;">Mosaic Pixel Art: Avatar Maker</h3>
+    <p>Art therapy in your pocket. Unwind by turning your pictures into beautiful mosaics.</p>
+  </div>
+</div>
 
 
 ---
