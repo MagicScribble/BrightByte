@@ -81,7 +81,7 @@ If you love the app and want to support development:
 
 If there’re some problems or suggestions
 please contact us!
-[hello@bubuloo.app](mailto:dentin-97.aniline@icloud.com)
+[hello@brightbyte.app](mailto:dentin-97.aniline@icloud.com)
 
 ---
 
