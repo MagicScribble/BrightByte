@@ -67,9 +67,15 @@ If you love the app and want to support development:
 
 ## 📬 Contact
 
+[hello@brightbyte.app](mailto:dentin-97.aniline@icloud.com)
+
+---
+
+## App Support
+
 If there’re some problems or suggestions
 please contact us!
-[hello@brightbyte.app](mailto:dentin-97.aniline@icloud.com)
+[Go to App Support Page](https://magicscribble.github.io/BrightByte/support.html)
 
 ---
 
