@@ -13,13 +13,6 @@
   BrightByte Apps
 </h1>
 
-Hi! My name is Olena. I’m an indie developer and illustrator passionate about building digital spaces for kids and parents.
-
-Bubuloo is my ongoing collection of handcrafted educational apps for toddlers and preschoolers — designed to turn screen time into something gentle, playful, and meaningful.
-
-Each game is built with care to encourage creativity, focus, and a sense of discovery — all in a safe digital space that parents can feel good about.
-
-
 ---
 
 ## 💚 Thanks for Supporting Indie Development 💚
