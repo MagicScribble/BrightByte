@@ -51,7 +51,7 @@
          border: 2px solid #fc21f9;
          transition: box-shadow 0.3s ease;
        "
-       onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
+       onmouseover="this.style.boxShadow='0 0 12px #fc21f9'"
        onmouseout="this.style.boxShadow='none'" />
 </a>
 
