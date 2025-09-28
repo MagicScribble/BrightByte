@@ -25,20 +25,11 @@
     
     <h2>📩 Contact Us</h2>
     <p>Email us anytime at: <a href="mailto:hello@brightbyte.app">hello@brightbyte.app</a></p>
-
-    <p>
-      
-    
-    
-    
-    
-    
-    
-    </p>
     
     <!-- Translation links -->
-    <div class="translate">
-  <p>🌍 View this page in: 
+<div class="translate">
+  <p>🌍 View this page in:</p>
+  <div class="lang-list">
     <a href="https://translate.google.com/translate?hl=ar&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Arabic</a> | 
     <a href="https://translate.google.com/translate?hl=bn&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Bengali</a> | 
     <a href="https://translate.google.com/translate?hl=ca&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Catalan</a> | 
@@ -76,8 +67,43 @@
     <a href="https://translate.google.com/translate?hl=tr&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Turkish</a> | 
     <a href="https://translate.google.com/translate?hl=uk&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Ukrainian</a> | 
     <a href="https://translate.google.com/translate?hl=vi&sl=en&u=https://magicscribble.github.io/BrightByte/support.html">Vietnamese</a>
-  </p>
+  </div>
 </div>
+
+<style>
+.translate {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.lang-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 4px;
+}
+.lang-list a {
+  display: inline-block;
+  background: #f0f0f0;
+  padding: 6px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #000;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+.lang-list a:hover {
+  background: #d0d0d0;
+}
+@media (max-width: 480px) {
+  .lang-list {
+    gap: 4px;
+  }
+  .lang-list a {
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+}
+</style>
     
     <!-- Translate widget inside container -->
     <div id="google_translate_element" style="margin-top:30px;"></div>
