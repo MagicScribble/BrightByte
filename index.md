@@ -59,7 +59,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <!-- App Image -->
-<a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
+<a href="https://apps.apple.com/app/id6752529479" target="_blank" style="text-decoration: none;">
   <img width="120" height="120" alt="image" 
     src="https://github.com/user-attachments/assets/971dd218-c0ce-4c0f-afb3-c5c01c7711be"
     style="
