@@ -99,7 +99,7 @@ I’m passionate about building experiences that make kids smile, spark curiosit
 
 I’m open to collaboration, promotion, and partnership proposals.  
 If you’d like to work with me, please reach out:  
-[hello@brightbyte.app](mailto:dentin-97.aniline@icloud.com)
+[magicscribble@icloud.com](mailto:magicscribble@icloud.com)
 
 ---
 
