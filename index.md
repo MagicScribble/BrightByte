@@ -91,7 +91,7 @@ If you love the app and want to support development:
 
 Hi! I’m Olena — an independent developer who loves creating fun, imaginative, and family-friendly mobile apps.
 
-I’m passionate about building experiences that make kids smile, spark curiosity, and give parents peace of mind. Every app is carefully designed, coded, and refined by me — from the very first sketch to the final release. My goal is simple: to craft apps that feel joyful, safe, and full of heart ✨.
+I’m passionate about building experiences that make kids smile, spark curiosity, and give parents peace of mind. Every app is carefully designed, coded, and refined by me — from the very first sketch to the final release. My aim is simple: to create apps that feel joyful, safe, and full of heart ✨.
 
 ---
 
