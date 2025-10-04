@@ -87,6 +87,14 @@ If you love the app and want to support development:
 
 ---
 
+## 👩‍💻 About Me 
+
+Hi! I’m Olena — an independent developer creating fun, imaginative, and family-friendly mobile apps.
+I love building experiences that make kids smile, help them learn something new, and give parents peace of mind. Every project is designed, coded, and polished by me — from the first sketch to the final release.
+I started BrightByte as a small personal passion project, and it’s grown into a space where creativity, play, and technology meet. My goal is simple: make apps that feel joyful, safe, and full of heart ✨.
+
+---
+
 ## 📬 Contact
 
 I’m open to collaboration, promotion, and partnership proposals.  
