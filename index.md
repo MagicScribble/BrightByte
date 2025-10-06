@@ -125,4 +125,14 @@ Privacy Policy For Mosaic Pixel Art: Avatar Maker:
 🎵 The amazing music in Bubuloo games was created by a wonderful composer AudioCoffee.
 If you love the sound, you can find more at [audiocoffee.net](https://www.audiocoffee.net/)
 
+---
+
+## 💚 Thanks for Supporting Indie Development 💚
+
+Every download, share, and kind word helps me build better experiences for families everywhere.
+
+<a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="Start screen: Dino illustration" width="100" height="100" />
+</a>
+
 
