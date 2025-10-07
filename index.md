@@ -11,7 +11,7 @@
   font-weight: bold;
   margin-bottom: 20px;
 ">
-  BrightByte Apps
+  MagicScribble Apps
 </h1>
 
 
