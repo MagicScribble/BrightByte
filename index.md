@@ -128,7 +128,7 @@ If you love the sound, you can find more at [audiocoffee.net](https://www.audioc
 ---
 ## Visuals
 
-If you like visuals, you can find more at [Golden_hind page] (https://stock.adobe.com/contributor/208642118/Golden_hind)
+If you like visuals, you can find more at [Golden_hind.page] (https://stock.adobe.com/contributor/208642118/Golden_hind)
 
 ---
 
