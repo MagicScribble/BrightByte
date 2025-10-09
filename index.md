@@ -11,7 +11,7 @@
   font-weight: bold;
   margin-bottom: 20px;
 ">
-  MagicScribble Apps
+  Banana Sky Apps
 </h1>
 
 
